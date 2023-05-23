@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #fffb08;
     --cinza-secundario: #c0c0c0;
-    --botao-azul: #167bf7;
+    --botao-azul: #167BF7
     --cor-de-fundo: #00030c;
 }
 
@@ -23,4 +23,9 @@ body {
 
 .container {
     height: 150vh;
+}
+
+.conteiner__botão {
+background-color: var(--botao-azul-)
+border-radius:16px
 }
